@@ -1,0 +1,4 @@
+<member name="res_parking" displayname="Call Parking Resource" remove_on_change="res/res_parking.o res/res_parking.so">
+	<depend>bridge_holding</depend>
+	<support_level>core</support_level>
+</member>

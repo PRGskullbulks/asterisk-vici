@@ -1,0 +1,4 @@
+<member name="res_pjproject" displayname="PJPROJECT Log and Utility Support" remove_on_change="res/res_pjproject.o res/res_pjproject.so">
+	<depend>pjproject</depend>
+	<support_level>core</support_level>
+</member>

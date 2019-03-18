@@ -1,0 +1,6 @@
+<member name="test_utils" displayname="Utils test module" remove_on_change="tests/test_utils.o tests/test_utils.so">
+	<depend>TEST_FRAMEWORK</depend>
+	<use type="module">res_agi</use>
+	<use type="module">res_crypto</use>
+	<support_level>core</support_level>
+</member>

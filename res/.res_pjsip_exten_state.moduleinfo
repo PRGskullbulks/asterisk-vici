@@ -1,0 +1,6 @@
+<member name="res_pjsip_exten_state" displayname="PJSIP Extension State Notifications" remove_on_change="res/res_pjsip_exten_state.o res/res_pjsip_exten_state.so">
+	<depend>pjproject</depend>
+	<depend>res_pjsip</depend>
+	<depend>res_pjsip_pubsub</depend>
+	<support_level>core</support_level>
+</member>

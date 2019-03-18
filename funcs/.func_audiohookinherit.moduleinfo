@@ -1,0 +1,4 @@
+<member name="func_audiohookinherit" displayname="Audiohook inheritance placeholder function" remove_on_change="funcs/func_audiohookinherit.o funcs/func_audiohookinherit.so">
+	<defaultenabled>no</defaultenabled>
+	<support_level>deprecated</support_level>
+</member>

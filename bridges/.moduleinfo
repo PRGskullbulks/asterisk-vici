@@ -1,0 +1,21 @@
+<category name="MENUSELECT_BRIDGES" displayname="Bridging Modules">
+<member name="bridge_builtin_features" displayname="Built in bridging features" remove_on_change="bridges/bridge_builtin_features.o bridges/bridge_builtin_features.so">
+	<use type="module">res_monitor</use>
+	<support_level>core</support_level>
+</member>
+<member name="bridge_builtin_interval_features" displayname="Built in bridging interval features" remove_on_change="bridges/bridge_builtin_interval_features.o bridges/bridge_builtin_interval_features.so">
+	<support_level>core</support_level>
+</member>
+<member name="bridge_holding" displayname="Holding bridge module" remove_on_change="bridges/bridge_holding.o bridges/bridge_holding.so">
+	<support_level>core</support_level>
+</member>
+<member name="bridge_native_rtp" displayname="Native RTP bridging module" remove_on_change="bridges/bridge_native_rtp.o bridges/bridge_native_rtp.so">
+	<support_level>core</support_level>
+</member>
+<member name="bridge_simple" displayname="Simple two channel bridging module" remove_on_change="bridges/bridge_simple.o bridges/bridge_simple.so">
+	<support_level>core</support_level>
+</member>
+<member name="bridge_softmix" displayname="Multi-party software based channel mixing" remove_on_change="bridges/bridge_softmix.o bridges/bridge_softmix.so">
+	<support_level>core</support_level>
+</member>
+</category>

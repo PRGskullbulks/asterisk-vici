@@ -1,0 +1,3 @@
+<member name="res_ari_model" displayname="ARI Model validators" remove_on_change="res/res_ari_model.o res/res_ari_model.so">
+	<support_level>core</support_level>
+</member>

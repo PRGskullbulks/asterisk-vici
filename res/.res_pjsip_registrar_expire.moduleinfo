@@ -1,0 +1,7 @@
+<member name="res_pjsip_registrar_expire" displayname="OBSOLETE PJSIP Contact Auto-Expiration" remove_on_change="res/res_pjsip_registrar_expire.o res/res_pjsip_registrar_expire.so">
+	<defaultenabled>no</defaultenabled>
+	<depend>pjproject</depend>
+	<depend>res_pjsip</depend>
+	<support_level>deprecated</support_level>
+	<replacement>res_pjsip_registrar</replacement>
+</member>
